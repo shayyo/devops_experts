@@ -11,7 +11,7 @@ print("=" * 20)
 
 # 2 - Write a program to print the sum of two numbers
 num1 = int(input("Enter first number: "))
-num2 = int(input("ddEnter second number: "))
+num2 = int(input("Enter second number: "))
 print(f"The sum of the two numbers is: {num1 + num2}")
 
 print("=" * 20)
