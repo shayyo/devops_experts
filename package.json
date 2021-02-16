@@ -1,3 +1,5 @@
-"scripts": {
-  "test": "mocha spec"
+{
+  "scripts": {
+    "test": "mocha spec"
+  }
 }
