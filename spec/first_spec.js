@@ -8,7 +8,7 @@ describe("A suite is just a function", function() {
   });
 });
 
-describe("A suite is just a function_2 again 2", function() {
+describe("A suite is just a function_2 again 3", function() {
   var a;
 
   it("and so is a spec - false=false", function() {
