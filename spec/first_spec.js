@@ -14,6 +14,6 @@ describe("A suite is just a function", function() {
   it("and so is a spec", function() {
     a = false;
 
-    expect(a).toBe(false);
+    expect(a).toBe(true);
   });
 });
