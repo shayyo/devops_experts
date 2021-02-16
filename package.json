@@ -1,7 +1,3 @@
-{
-
-	"scripts": {
-		"test": "jasmine"
-	}
-
+"scripts": {
+  "test": "mocha spec"
 }
