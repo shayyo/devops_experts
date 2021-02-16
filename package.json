@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"test": "jasmine"
+	},
+	"dependencies": {
+		"jasmine": "^3.6.4",
+		"mocha": "^8.3.0"
+	}
+}
