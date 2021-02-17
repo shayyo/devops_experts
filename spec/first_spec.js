@@ -17,3 +17,13 @@ describe("A suite is just a function_2", function() {
     expect(a).toBe(false);
   });
 });
+
+describe("A suite is just a function_3", function() {
+  var a;
+
+  it("and so is a spec - false=false", function() {
+    a = false;
+
+    expect(a).toBe(false);
+  });
+});
