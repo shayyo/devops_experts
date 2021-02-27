@@ -22,7 +22,7 @@ describe("A suite is just a function_3", function() {
   var a;
 
   it("and so is a spec - false=false", function() {
-    a = true;
+    a = false;
 
     expect(a).toBe(false);
   });
